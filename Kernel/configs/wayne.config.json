@@ -1,11 +1,11 @@
 [
-  {
+  {  
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "Mi_MIX2",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8998",
+      "branch": "lineage-21",
+      "device": "chiron",
+      "defconfig": "chiron_defconfig"
     },
     "toolchains": [
       {
